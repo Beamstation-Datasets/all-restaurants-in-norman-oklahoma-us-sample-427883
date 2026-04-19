@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Norman, Oklahoma with a population of over 128k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Norman, Oklahoma, US",
-  "export_job_id": "8771fe22-a07a-4e86-bb7b-ec3ff5f807e1",
+  "export_job_id": "237fdb00-d47a-44d9-aeb1-81ddf748937d",
   "github_org": "Beamstation-Datasets",
   "id_short": 427883,
   "location_name": "Norman",
   "location_type": "city",
   "repo_name": "all-restaurants-in-norman-oklahoma-us-sample-427883",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/427883/beamstation_427883_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_pct": 9.75,
+  "sample_pct": 9.82,
   "sample_records": 39,
   "sample_sha256": "10ecb48fed5ad7c7c677ad40ae1e2b796f11bfa0403997c254642b61d2c1a22b",
   "sample_size_bytes": 158168,
-  "total_records": 400,
-  "updated_at": "2026-04-09T09:19:01.753662+00:00"
+  "total_records": 397,
+  "updated_at": "2026-04-16T09:17:48.516119+00:00"
 }
