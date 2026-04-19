@@ -9,9 +9,9 @@
 | Dataset ID | `427883` |
 | Location | Norman |
 | Category | Restaurants |
-| Full dataset size | 400 records |
-| Free sample size | 39 records (9.75%) |
-| Last export | 2026-04-09T09:19:01.753662+00:00 |
+| Full dataset size | 397 records |
+| Free sample size | 39 records (9.82%) |
+| Last export | 2026-04-16T09:17:48.516119+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-norman-oklahoma-us-sample-427883/releases/download/sample-latest/beamstation_427883_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
