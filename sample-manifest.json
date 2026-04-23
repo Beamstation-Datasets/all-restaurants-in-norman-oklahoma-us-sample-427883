@@ -1,12 +1,12 @@
 {
-  "export_job_id": "237fdb00-d47a-44d9-aeb1-81ddf748937d",
+  "export_job_id": "189a4b49-988f-4a6b-b078-2cd8b320c2c9",
   "id_short": 427883,
-  "published_at": "2026-04-19T08:00:27Z",
+  "published_at": "2026-04-23T19:25:01Z",
   "repo_name": "all-restaurants-in-norman-oklahoma-us-sample-427883",
   "sample_asset_name": "beamstation_427883_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/427883/beamstation_427883_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_records": 39,
-  "sample_sha256": "10ecb48fed5ad7c7c677ad40ae1e2b796f11bfa0403997c254642b61d2c1a22b",
-  "sample_size_bytes": 158168,
-  "total_records": 397
+  "sample_records": 21,
+  "sample_sha256": "84fbcbe91568740425f1b0d06ee361f1a35bf3730f94c469246e97622173cdf5",
+  "sample_size_bytes": 96313,
+  "total_records": 211
 }
